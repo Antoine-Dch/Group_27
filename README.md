@@ -1,1 +1,1 @@
-# Group_27
+# Linux terminal (GitBash) commands
